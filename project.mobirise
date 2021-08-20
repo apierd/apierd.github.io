@@ -526,6 +526,9 @@
             },
             ".row": {
               "justify-content": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
             }
           },
           "_name": "features1",
@@ -576,6 +579,12 @@
               ".card-wrapper": {
                 "margin-bottom": "2rem"
               }
+            },
+            ".card-title, .card-box": {
+              "text-align": "right"
+            },
+            ".icon-text DIV": {
+              "text-align": "left"
             }
           },
           "_name": "features13",

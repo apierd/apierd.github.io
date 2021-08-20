@@ -1071,6 +1071,9 @@ a {
 .cid-sGA2lBodiG .row {
   justify-content: center;
 }
+.cid-sGA2lBodiG .mbr-section-title {
+  text-align: center;
+}
 .cid-sGAezFLyMl {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1103,6 +1106,13 @@ a {
   .cid-sGAezFLyMl .card-wrapper {
     margin-bottom: 2rem;
   }
+}
+.cid-sGAezFLyMl .card-title,
+.cid-sGAezFLyMl .card-box {
+  text-align: right;
+}
+.cid-sGAezFLyMl .icon-text DIV {
+  text-align: left;
 }
 .cid-sGBevJ8tCs {
   padding-top: 5rem;
